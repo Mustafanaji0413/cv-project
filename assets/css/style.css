@@ -196,7 +196,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.cv-pdf i:hover{
+.cv-pdf i:hover {
     color: #e84610;
 }
 
@@ -238,7 +238,7 @@ footer {
 
 .hree-reasons-heading {
     margin-bottom: 15px;
-    
+
 }
 
 /* --------------------------Special paddings/margins/text-----------------------------------*/
@@ -277,8 +277,9 @@ footer {
 .personal-info-item .value {
     position: relative;
     width: 60%;
-    
+
 }
+
 /* --------------------------Skills-----------------------------------*/
 
 .progress {
@@ -366,7 +367,7 @@ footer {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
-    
+
 }
 
 button[type="submit"] {
@@ -385,5 +386,5 @@ button[type="submit"] {
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
-}
+    }
 }
